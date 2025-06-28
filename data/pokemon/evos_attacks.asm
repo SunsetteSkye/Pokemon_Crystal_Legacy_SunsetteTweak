@@ -242,9 +242,10 @@ PidgeyEvosAttacks:
 	db 19, WHIRLWIND
 	db 25, WING_ATTACK
 	db 30, MUD_SLAP
+	db 36, SLASH
 	db 42, AGILITY
 	db 47, SKY_ATTACK
-	db 55, MIRROR_MOVE
+	db 55, EXTREMESPEED
 	db 0 ; no more level-up moves
 
 PidgeottoEvosAttacks:
@@ -257,9 +258,10 @@ PidgeottoEvosAttacks:
 	db 19, WHIRLWIND
 	db 25, WING_ATTACK
 	db 30, MUD_SLAP
+	db 36, SLASH
 	db 42, AGILITY
 	db 47, SKY_ATTACK
-	db 55, MIRROR_MOVE
+	db 55, EXTREMESPEED
 	db 0 ; no more level-up moves
 
 PidgeotEvosAttacks:
@@ -271,10 +273,10 @@ PidgeotEvosAttacks:
 	db 19, WHIRLWIND
 	db 25, WING_ATTACK
 	db 30, MUD_SLAP
-	db 36, EXTREMESPEED
+	db 36, SLASH
 	db 42, AGILITY
 	db 47, SKY_ATTACK
-	db 55, MIRROR_MOVE
+	db 55, EXTREMESPEED
 	db 0 ; no more level-up moves
 
 RattataEvosAttacks:
@@ -2195,7 +2197,7 @@ DratiniEvosAttacks:
 	db 1, LEER
 	db 5, WRAP
 	db 8, THUNDER_WAVE
-	db 15, TWISTER
+	db 15, WHIRLPOOL
 	db 22, DRAGON_RAGE
 	db 29, SLAM
 	db 35, AGILITY
@@ -2211,7 +2213,7 @@ DragonairEvosAttacks:
 	db 1, LEER
 	db 1, WRAP
 	db 8, THUNDER_WAVE
-	db 15, TWISTER
+	db 15, WHIRLPOOL
 	db 22, DRAGON_RAGE
 	db 29, SLAM
 	db 38, AGILITY
@@ -2226,7 +2228,7 @@ DragoniteEvosAttacks:
 	db 1, LEER
 	db 1, WRAP
 	db 1, THUNDER_WAVE
-	db 15, TWISTER
+	db 15, WHIRLPOOL
 	db 22, DRAGON_RAGE
 	db 29, SLAM
 	db 38, AGILITY
