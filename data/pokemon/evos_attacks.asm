@@ -2269,52 +2269,52 @@ ChikoritaEvosAttacks:
 	db 1, TACKLE
 	db 1, GROWL
 	db 6, RAZOR_LEAF
-	db 9, LEECH_SEED
+	db 9, CONFUSION
 	db 12, REFLECT
-	db 15, POISONPOWDER
+	db 15, LEECH_SEED
 	db 21, MEGA_DRAIN
-	db 23, SYNTHESIS
+	db 23, PSYBEAM
 	db 31, BODY_SLAM
 	db 36, GIGA_DRAIN
-	db 41, LIGHT_SCREEN
+	db 41, SYNTHESIS
 	db 45, SOLARBEAM
 	db 46, SUNNY_DAY
-	db 50, SAFEGUARD
+	db 50, FUTURE_SIGHT
 	db 0 ; no more level-up moves
 
 BayleefEvosAttacks:
 	db EVOLVE_LEVEL, 32, MEGANIUM
 	db 0 ; no more evolutions
 	db 1, TACKLE
-	db 1, GROWL
+	db 1, CONFUSION
 	db 1, RAZOR_LEAF
 	db 1, REFLECT
-	db 15, POISONPOWDER
+	db 15, LEECH_SEED
 	db 21, MEGA_DRAIN
-	db 23, SYNTHESIS
+	db 23, PSYBEAM
 	db 31, BODY_SLAM
 	db 36, GIGA_DRAIN
-	db 41, LIGHT_SCREEN
+	db 41, SYNTHESIS
 	db 45, SOLARBEAM
 	db 46, SUNNY_DAY
-	db 50, SAFEGUARD
+	db 50, FUTURE_SIGHT
 	db 0 ; no more level-up moves
 
 MeganiumEvosAttacks:
 	db 0 ; no more evolutions
 	db 1, TACKLE
-	db 1, GROWL
+	db 1, CONFUSION
 	db 1, RAZOR_LEAF
 	db 1, REFLECT
-	db 15, POISONPOWDER
+	db 15, LEECH_SEED
 	db 21, MEGA_DRAIN
-	db 23, SYNTHESIS
+	db 23, PSYBEAM
 	db 31, BODY_SLAM
 	db 36, GIGA_DRAIN
-	db 41, LIGHT_SCREEN
+	db 41, SYNTHESIS
 	db 45, SOLARBEAM
 	db 46, SUNNY_DAY
-	db 50, SAFEGUARD
+	db 50, FUTURE_SIGHT
 	db 0 ; no more level-up moves
 
 CyndaquilEvosAttacks:
