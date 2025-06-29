@@ -343,6 +343,7 @@ EkansEvosAttacks:
 	db 30, SCREECH
 	db 36, SLUDGE_BOMB
 	db 43, HAZE
+	db 50, CRUNCH
 	db 0 ; no more level-up moves
 
 ArbokEvosAttacks:
@@ -358,6 +359,7 @@ ArbokEvosAttacks:
 	db 30, SCREECH
 	db 36, SLUDGE_BOMB
 	db 43, HAZE
+	db 50, CRUNCH
 	db 0 ; no more level-up moves
 
 PikachuEvosAttacks:
