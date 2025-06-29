@@ -3632,7 +3632,7 @@ EnteiEvosAttacks:
 	db 41, CRUNCH
 	db 51, LIGHT_SCREEN
 	db 61, FIRE_BLAST
-	db 71, SWAGGER
+	db 71, FISSURE
 	db 0 ; no more level-up moves
 
 SuicuneEvosAttacks:
