@@ -1,9 +1,9 @@
 	db RAICHU ; 026
 
-	db  60,  90,  55, 100,  90,  80
+	db  60, 100,  55, 110, 100,  80
 	;   hp  atk  def  spd  sat  sdf
 
-	db ELECTRIC, ELECTRIC ; type
+	db ELECTRIC, NORMAL ; type
 	db 75 ; catch rate
 	db 122 ; base exp
 	db NO_ITEM, BERRY ; items
