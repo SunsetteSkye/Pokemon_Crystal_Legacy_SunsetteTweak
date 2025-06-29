@@ -2869,7 +2869,7 @@ SunkernEvosAttacks:
 	db 4, GROWTH
 	db 10, MEGA_DRAIN
 	db 15, RAZOR_LEAF
-	db 19, SUNNY_DAY
+	db 19, FIRE_SPIN
 	db 25, SYNTHESIS
 	db 31, PETAL_DANCE
 	db 36, SOLARBEAM
@@ -2883,7 +2883,7 @@ SunfloraEvosAttacks:
 	db 1, GROWTH
 	db 10, MEGA_DRAIN
 	db 15, RAZOR_LEAF
-	db 19, SUNNY_DAY
+	db 19, FIRE_SPIN
 	db 25, SYNTHESIS
 	db 31, PETAL_DANCE
 	db 36, SOLARBEAM
