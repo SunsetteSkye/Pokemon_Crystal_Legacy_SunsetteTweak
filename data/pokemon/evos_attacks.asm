@@ -1905,7 +1905,7 @@ PinsirEvosAttacks:
     db 13, BIND
     db 19, SEISMIC_TOSS
     db 25, TWINEEDLE
-    db 27, HARDEN
+    db 27, MUD_SLAP
     db 31, GUILLOTINE
     db 37, SUBMISSION
     db 43, SWORDS_DANCE
