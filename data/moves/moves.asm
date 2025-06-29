@@ -82,7 +82,7 @@ Moves:
 	move LOW_KICK,     EFFECT_FLINCH_HIT,         50, FIGHTING,     100, 20,  30
 	move COUNTER,      EFFECT_COUNTER,             1, FIGHTING,     100, 20,   0
 	move SEISMIC_TOSS, EFFECT_LEVEL_DAMAGE,        1, FIGHTING,     100, 20,   0
-	move STRENGTH,     EFFECT_NORMAL_HIT,         80, ROCK,         100, 15,   0
+	move STRENGTH,     EFFECT_NORMAL_HIT,        100, ROCK,          80, 15,   0
 	move ABSORB,       EFFECT_LEECH_HIT,          20, GRASS,        100, 25,   0
 	move MEGA_DRAIN,   EFFECT_LEECH_HIT,          40, GRASS,        100, 20,   0
 	move LEECH_SEED,   EFFECT_LEECH_SEED,          0, GRASS,         90, 10,   0
@@ -169,7 +169,7 @@ Moves:
 	move FURY_SWIPES,  EFFECT_MULTI_HIT,          20, NORMAL,       100, 20,   0
 	move BONEMERANG,   EFFECT_DOUBLE_HIT,         50, GROUND,        90, 20,   0
 	move REST,         EFFECT_HEAL,                0, PSYCHIC_TYPE, 100,  5,   0
-	move ROCK_SLIDE,   EFFECT_FLINCH_HIT,         90, ROCK,          90, 10,  30
+	move ROCK_SLIDE,   EFFECT_ALWAYS_HIT,         80, ROCK,         100, 10,   0
 	move HYPER_FANG,   EFFECT_FLINCH_HIT,         80, NORMAL,        90, 15,  30
 	move SHARPEN,      EFFECT_ATTACK_UP,           0, NORMAL,       100, 30,   0
 	move CONVERSION,   EFFECT_CONVERSION,          0, NORMAL,       100, 30,   0
@@ -204,7 +204,7 @@ Moves:
 	move MUD_SLAP,     EFFECT_ACCURACY_DOWN_HIT,  50, GROUND,       100, 15,  50
 	move OCTAZOOKA,    EFFECT_ACCURACY_DOWN_HIT,  65, WATER,        100, 15,  50
 	move SPIKES,       EFFECT_SPIKES,              0, GROUND,       100, 20,   0
-	move ZAP_CANNON,   EFFECT_PARALYZE_HIT,      100, ELECTRIC,      50,  5, 100
+	move ZAP_CANNON,   EFFECT_PARALYZE_HIT,      100, ELECTRIC,      90,  5,  50
 	move FORESIGHT,    EFFECT_FORESIGHT,           0, NORMAL,       100, 40,   0
 	move DESTINY_BOND, EFFECT_DESTINY_BOND,        0, GHOST,        100,  5,   0
 	move PERISH_SONG,  EFFECT_PERISH_SONG,         0, NORMAL,       100,  5,   0
