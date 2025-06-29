@@ -375,7 +375,7 @@ PikachuEvosAttacks:
 	db 26, THUNDERBOLT
 	db 33, AGILITY
 	db 41, THUNDER
-	db 50, LIGHT_SCREEN
+	db 50, EXTREMESPEED
 	db 0 ; no more level-up moves
 
 RaichuEvosAttacks:
@@ -390,7 +390,7 @@ RaichuEvosAttacks:
 	db 26, THUNDERBOLT
 	db 33, AGILITY
 	db 41, THUNDER
-	db 50, LIGHT_SCREEN
+	db 50, EXTREMESPEED
 	db 0 ; no more level-up moves
 
 SandshrewEvosAttacks:
