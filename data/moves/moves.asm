@@ -147,7 +147,7 @@ Moves:
 	move CONSTRICT,    EFFECT_SPEED_DOWN_HIT,     40, NORMAL,       100, 35,  10
 	move AMNESIA,      EFFECT_SP_DEF_UP_2,         0, PSYCHIC_TYPE, 100, 20,   0
 	move KINESIS,      EFFECT_ACCURACY_DOWN,       0, PSYCHIC_TYPE,  80, 15,   0
-	move SOFTBOILED,   EFFECT_HEAL,                0, NORMAL,       100,  5,   0
+	move SOFTBOILED,   EFFECT_HEAL,                0, NORMAL,       100, 20,   0
 	move HI_JUMP_KICK, EFFECT_JUMP_KICK,         120, FIGHTING,      90, 20,   0
 	move GLARE,        EFFECT_PARALYZE,            0, NORMAL,        90, 30,   0
 	move DREAM_EATER,  EFFECT_DREAM_EATER,       100, PSYCHIC_TYPE, 100, 15,   0
