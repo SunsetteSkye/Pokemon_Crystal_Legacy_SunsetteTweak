@@ -1,6 +1,6 @@
 	db HITMONTOP ; 237
 
-	db  50,  95,  95,  75,  35, 160
+	db  50,  95,  95,  75,  85, 110
 	;   hp  atk  def  spd  sat  sdf
 
 	db FIGHTING, FIGHTING ; type
