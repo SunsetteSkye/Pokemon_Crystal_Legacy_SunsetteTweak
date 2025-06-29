@@ -1145,9 +1145,9 @@ PonytaEvosAttacks:
 	db 25, DOUBLE_KICK
 	db 33, FLAMETHROWER
 	db 36, TAKE_DOWN
-	db 39, FIRE_SPIN
+	db 39, MEGA_KICK
 	db 45, AGILITY
-	db 51, FIRE_BLAST
+	db 51, FIRE_SPIN
 	db 0 ; no more level-up moves
 
 RapidashEvosAttacks:
@@ -1159,12 +1159,11 @@ RapidashEvosAttacks:
 	db 17, STOMP
 	db 20, FLAME_WHEEL
 	db 25, DOUBLE_KICK
-	db 33, TAKE_DOWN
-	db 36, FLAMETHROWER
-	db 39, FIRE_SPIN
-	db 40, FURY_ATTACK
+	db 33, FLAMETHROWER
+	db 36, TAKE_DOWN
+	db 39, MEGA_KICK
 	db 45, AGILITY
-	db 51, FIRE_BLAST
+	db 51, FIRE_SPIN
 	db 0 ; no more level-up moves
 
 SlowpokeEvosAttacks:
