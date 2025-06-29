@@ -677,7 +677,7 @@ ParasEvosAttacks:
 	db 1, SCRATCH
 	db 5, ABSORB
 	db 7, STUN_SPORE
-	db 13, POISONPOWDER
+	db 13, CURSE
 	db 16, MEGA_DRAIN
 	db 19, LEECH_LIFE
 	db 24, SPORE
@@ -691,7 +691,7 @@ ParasectEvosAttacks:
 	db 1, SCRATCH
 	db 1, ABSORB
 	db 1, STUN_SPORE
-	db 13, POISONPOWDER
+	db 13, CURSE
 	db 16, MEGA_DRAIN
 	db 19, LEECH_LIFE
 	db 24, SPORE
