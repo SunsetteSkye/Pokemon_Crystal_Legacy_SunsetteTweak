@@ -95,6 +95,7 @@ TypeMatchups:
 	db GHOST,        DARK,         NOT_VERY_EFFECTIVE
 	db GHOST,        GHOST,        SUPER_EFFECTIVE
 	db DRAGON,       DRAGON,       SUPER_EFFECTIVE
+	db DRAGON,       GRASS,        NOT_VERY_EFFECTIVE
 	db DRAGON,       STEEL,        NOT_VERY_EFFECTIVE
 	db DARK,	 GRASS,	       NOT_VERY_EFFECTIVE
 	db DARK,         FIGHTING,     NOT_VERY_EFFECTIVE
