@@ -404,7 +404,7 @@ SandshrewEvosAttacks:
 	db 15, ROLLOUT
 	db 19, METAL_CLAW
 	db 25, SLASH
-	db 30, CUT
+	db 30, RAZOR_WIND
 	db 35, SANDSTORM
 	db 40, EARTHQUAKE
 	db 0 ; no more level-up moves
@@ -420,7 +420,7 @@ SandslashEvosAttacks:
 	db 19, METAL_CLAW
 	db 22, DIG
 	db 25, SLASH
-	db 30, CUT
+	db 30, RAZOR_WIND
 	db 35, SANDSTORM
 	db 40, EARTHQUAKE
 	db 48, SPIKE_CANNON
@@ -1842,7 +1842,7 @@ ScytherEvosAttacks:
     db 16, CUT
     db 18, FALSE_SWIPE
     db 24, AGILITY
-    db 30, WING_ATTACK
+    db 30, RAZOR_WIND
     db 36, SLASH
     db 42, TWINEEDLE
     db 48, DOUBLE_TEAM
