@@ -3632,7 +3632,7 @@ EnteiEvosAttacks:
 	db 31, FLAMETHROWER
 	db 41, CRUNCH
 	db 51, LIGHT_SCREEN
-	db 61, FIRE_BLAST
+	db 61, SACRED_FIRE
 	db 71, FISSURE
 	db 0 ; no more level-up moves
 
