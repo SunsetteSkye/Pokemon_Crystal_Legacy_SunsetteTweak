@@ -1247,12 +1247,12 @@ DoduoEvosAttacks:
 	db 1, GROWL
 	db 1, PECK
 	db 9, PURSUIT
-	db 13, FURY_ATTACK
+	db 13, DOUBLE_KICK
 	db 21, TRI_ATTACK
 	db 27, RAGE
 	db 38, DRILL_PECK
 	db 44, AGILITY
-	db 56, DOUBLE_EDGE
+	db 56, MEGA_KICK
 	db 0 ; no more level-up moves
 
 DodrioEvosAttacks:
@@ -1260,14 +1260,14 @@ DodrioEvosAttacks:
 	db 1, PECK
 	db 1, GROWL
 	db 1, PURSUIT
-	db 1, FURY_ATTACK
+	db 1, DOUBLE_KICK
 	db 9, PURSUIT
-	db 13, FURY_ATTACK
+	db 13, DOUBLE_KICK
 	db 21, RAGE
 	db 27, TRI_ATTACK
 	db 38, DRILL_PECK
 	db 44, AGILITY
-	db 56, DOUBLE_EDGE
+	db 56, MEGA_KICK
 	db 0 ; no more level-up moves
 
 SeelEvosAttacks:
