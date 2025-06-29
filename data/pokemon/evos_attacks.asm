@@ -771,7 +771,7 @@ MeowthEvosAttacks:
 	db 33, SLASH
 	db 38, SCREECH
 	db 41, FURY_SWIPES
-	db 46, DOUBLE_EDGE
+	db 46, CRUNCH
 	db 0 ; no more level-up moves
 
 PersianEvosAttacks:
@@ -785,8 +785,8 @@ PersianEvosAttacks:
 	db 33, SLASH
 	db 38, SCREECH
 	db 41, FURY_SWIPES
-	db 46, DOUBLE_EDGE
-	db 50, HYPER_BEAM
+	db 46, CRUNCH
+	db 50, DOUBLE_EDGE
 	db 0 ; no more level-up moves
 
 PsyduckEvosAttacks:
