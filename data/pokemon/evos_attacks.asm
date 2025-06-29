@@ -2771,7 +2771,7 @@ SudowoodoEvosAttacks:
 	db 10, FLAIL
 	db 19, LOW_KICK
 	db 28, ROCK_SLIDE
-	db 31, COUNTER
+	db 31, MEGA_PUNCH
 	db 36, FAINT_ATTACK
 	db 46, THRASH
 	db 0 ; no more level-up moves
