@@ -2187,7 +2187,7 @@ MoltresEvosAttacks:
 	db 49, FLAMETHROWER
 	db 55, SKY_ATTACK
 	db 61, SAFEGUARD
-	db 73, FIRE_BLAST
+	db 73, SACRED_FIRE
 	db 76, SOFTBOILED
 	db 0 ; no more level-up moves
 
