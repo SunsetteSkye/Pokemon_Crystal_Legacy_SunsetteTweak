@@ -2157,10 +2157,10 @@ ArticunoEvosAttacks:
 	db 25, AGILITY
 	db 37, MIND_READER
 	db 49, ICE_BEAM
-	db 55, DRILL_PECK
+	db 55, AEROBLAST
 	db 61, REFLECT
 	db 73, BLIZZARD
-	db 76, SKY_ATTACK
+	db 76, FUTURE_SIGHT
 	db 0 ; no more level-up moves
 
 ZapdosEvosAttacks:
@@ -2174,7 +2174,7 @@ ZapdosEvosAttacks:
 	db 55, DRILL_PECK
 	db 61, LIGHT_SCREEN
 	db 73, THUNDER
-	db 76, SKY_ATTACK
+	db 76, HAZE
 	db 0 ; no more level-up moves
 
 MoltresEvosAttacks:
@@ -2185,10 +2185,10 @@ MoltresEvosAttacks:
 	db 25, AGILITY
 	db 37, ENDURE
 	db 49, FLAMETHROWER
-	db 55, DRILL_PECK
+	db 55, SKY_ATTACK
 	db 61, SAFEGUARD
 	db 73, FIRE_BLAST
-	db 76, SKY_ATTACK
+	db 76, SOFTBOILED
 	db 0 ; no more level-up moves
 
 DratiniEvosAttacks:
