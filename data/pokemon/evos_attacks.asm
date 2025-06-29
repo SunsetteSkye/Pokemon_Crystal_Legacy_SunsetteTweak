@@ -226,10 +226,12 @@ BeedrillEvosAttacks:
 	db 10, PIN_MISSILE
 	db 10, RAGE
 	db 12, FOCUS_ENERGY
-	db 15, TWINEEDLE
-	db 18, PURSUIT
-	db 30, SWORDS_DANCE
-	db 40, AGILITY
+	db 15, PURSUIT
+	db 18, TWINEEDLE
+	db 23, AGILITY
+	db 28, DRILL_PECK
+	db 34, SWORDS_DANCE
+	db 40, OUTRAGE
 	db 0 ; no more level-up moves
 
 PidgeyEvosAttacks:
